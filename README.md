@@ -31,6 +31,5 @@
 - Feburary 10. 2021. : H2K Soft Establishments.
 - Feburary 21. 2021. : H2K 1st All-hands meetings.
 
-<br>
-
+<br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
