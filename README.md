@@ -1,7 +1,7 @@
 # H2K Soft.
 ##### ※ Udong Project is based on ‘Start-up Simulation’ for improving project management skills with software development abilities and organized by Byungwook Hyeon.
 
-#### About us.
+## About us.
 #### Company name : H2K Soft Co., Ltd.
 #### Company classfication : Start-up.
 #### Representative : Byungwook Hyeon.
