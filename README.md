@@ -8,7 +8,7 @@
 #### Sectors : Application software development and supply.
 #### Employee : 4 (March, 2021)
 
-1. Project Overview.
+#### 1. Project Overview.
 (1) Goal.
 Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
 
@@ -24,6 +24,6 @@ Director of Managed Service Division : Kyeongwon Kang.
 - Java, Python, MySQL
 - Etc.
 
-2. Log.
+#### 2. Log.
 - Feburary 10. 2021. : H2K Soft Establishments.
 - Feburary 21. 2021. : H2K 1st All-hands meetings.
