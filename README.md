@@ -1,5 +1,5 @@
 # Application Developments, Udong.
-##### ※ Udong Project is based on ‘Start-up Simulation’ for improving project management skills with software development abilities and organized by Byungwook Hyeon.
+##### Udong Project is based on ‘Start-up Simulation’ for improving project management skills with software development abilities and organized by Byungwook Hyeon.
 
 ## About us.
 #### Company name : H2K Soft Co., Ltd.
