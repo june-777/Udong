@@ -13,10 +13,10 @@
 Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
 
 (2) Team Info.
-Project Manager : Byungwook Hyeon.
-Director of CoreSW Division : Byungwook Hyeon.
-Director of Cloud Engineering Division : Dongwan Kang.
-Director of Managed Service Division : Kyeongwon Kang.
+- Project Manager : Byungwook Hyeon.
+- Director of CoreSW Division : Byungwook Hyeon.
+- Director of Cloud Engineering Division : Dongwan Kang.
+- Director of Managed Service Division : Kyeongwon Kang.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
