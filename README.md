@@ -33,4 +33,4 @@
 
 <br>
 
-<img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" />
+<img align="center" src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" />
