@@ -27,7 +27,7 @@
 - Java, Python, MySQL
 - Etc.
 
-## 2. Log.
+## 2. History
 - Feburary 10, 2021.  H2K Soft Establishments.
 - Feburary 21, 2021.  H2K Soft 1st All-hands meetings.
 
