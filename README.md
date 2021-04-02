@@ -13,7 +13,7 @@
 
 ## 1. Project Overview.
 (1) Goal.
-<br>Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
+- Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
 
 (2) Team Info.
 - Project Manager : Byungwook Hyeon.
