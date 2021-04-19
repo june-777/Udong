@@ -8,7 +8,9 @@
 #### Representative : Byungwook Hyeon.
 #### Date of Establishment : Feburary 10. 2021.
 #### Sectors : Application software development and supply.
+#### Current Assets : $60. (April, 2021)
 #### Employee : 4 (March, 2021)
+
 <br>
 
 ## 1. Project Overview.
