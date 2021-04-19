@@ -8,7 +8,7 @@
 #### Representative : Byungwook Hyeon.
 #### Date of Establishment : Feburary 10. 2021.
 #### Sectors : Application software development and supply.
-#### Current Assets : $60. (April, 2021)
+#### Current Assets : $60 (April, 2021)
 #### Employee : 4 (April, 2021)
 #### Business Contact : mornadina13@gmail.com | Byungwook Hyeon, CEO of H2K Soft.
 <br>
