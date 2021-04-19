@@ -10,7 +10,7 @@
 #### Sectors : Application software development and supply.
 #### Current Assets : $60. (April, 2021)
 #### Employee : 4 (March, 2021)
-
+#### Business Contact : mornadina13@gmail.com | Byungwook Hyeon, CEO of H2K Soft.
 <br>
 
 ## 1. Project Overview.
