@@ -15,7 +15,7 @@
 
 ## 1. Project Overview.
 (1) Goal.
-- Kick-start the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, place.
+- Kick-start the region community through the information sharing with the neighbor about the society, club, hobbies, academy, restaurant, place.
 
 (2) Team Info.
 - Project Owner : Byungwook, Hyeon.
