@@ -39,7 +39,7 @@
 ## 3. Notice.
 - Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
 - March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
-- April 16, 2021. H2K Soft Reorganization : Financial Managedment Team Creation.
+- April 16, 2021. H2K Soft Reorganization : Financial Management Team Creation.
 - April 19, 2021. H2K Soft New Family : Joonki, Kim | Manager - CoreSW Division.
 - April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
 - April 20, 2021. H2K Soft New Family : Yonghyun, Kim | Director - UI/UX Division.
