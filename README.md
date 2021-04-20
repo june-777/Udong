@@ -36,6 +36,7 @@
 - March 13, 2021. H2K Soft 1st All-hands meetings.
 - March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
 - April 16, 2021. H2K Soft 2nd All-hands meetings.
+- April 16, 2021. H2K Soft Reorganization : Financial Managedment Team Creation.
 - April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
 
 
