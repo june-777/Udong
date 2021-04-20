@@ -53,7 +53,10 @@
 - April 21, 2021. H2K Soft Reorganization : Business Strategy Team Creation.
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
 - April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Management Team.
-- May 21, 2021. H2K Soft Project Udong Prototype will be opened.
+- May 21, 2021. H2K Soft Project Udong 1.0.0 will be opened.
+- June 25, 2021. H2K Soft Project Udong 1.0.1 will be opened.
+- July 19, 2021. H2K Soft Project Udong 2.0.1 will be opened.
+- August 2, 2021. H2K Soft Udong 3.0.1 will be opened.
 
 <br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
