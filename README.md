@@ -31,7 +31,7 @@
 - Apache, Tomcat, HTML, PHP, CSS, JS
 - Etc.
 
-## 2. History
+## 2. History.
 - Feburary 10, 2021. H2K Soft Establishments.
 - March 13, 2021. H2K Soft 1st All-hands meetings.
 - April 16, 2021. H2K Soft 2nd All-hands meetings.
