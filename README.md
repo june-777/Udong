@@ -24,7 +24,8 @@
 - Director of Managed Service Division : Kyeongwon, Kang.
 - Director of UI/UX Division : Yonghyun, Lee.
 - Manager of CoreSW Division : Joonki, Kim.
-- Manager of UI/UX Division : Sangwoo, woo.
+- Manager of UI/UX Division : Sangwoo, Woo.
+- Manager of Business Strategy Team : Seongjun, Kim.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
