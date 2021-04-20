@@ -23,6 +23,8 @@
 - Director of Cloud Engineering Division : Dongwan, Kang.
 - Director of Managed Service Division : Kyeongwon, Kang.
 - Director of UI/UX Division : Yonghyun, Lee.
+- Manager of CoreSW Division : Joonki, Kim.
+- Manager of UI/UX Division : Sangwoo, woo.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
