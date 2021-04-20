@@ -31,9 +31,13 @@
 - Etc.
 
 ## 2. History
-- Feburary 10, 2021.  H2K Soft Establishments.
-- March 13, 2021.  H2K Soft 1st All-hands meetings.
-- April 16, 2021.  H2K Soft 2nd All-hands meetings.
+- Feburary 10, 2021. H2K Soft Establishments.
+- Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
+- March 13, 2021. H2K Soft 1st All-hands meetings.
+- March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
+- April 16, 2021. H2K Soft 2nd All-hands meetings.
+- April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
+
 
 <br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
