@@ -35,6 +35,7 @@
 - Feburary 10, 2021. H2K Soft Establishments.
 - March 13, 2021. H2K Soft 1st All-hands meetings.
 - April 16, 2021. H2K Soft 2nd All-hands meetings.
+- May 15, 2021. H2K Soft 3nd All-hands Meetings.
 
 ## 3. Notice.
 - Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
