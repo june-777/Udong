@@ -25,7 +25,7 @@
 - Director of UI/UX Division : Yonghyun, Lee.
 - Manager of CoreSW Division : Joonki, Kim.
 - Manager of UI/UX Division : Sangwoo, Woo.
-- Manager of Business Strategy Team : Seongjun, Kim.
+- Manager of Business Strategy Team : Sungjun, Kim.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
@@ -49,7 +49,7 @@
 - April 20, 2021. H2K Soft New Family : Yonghyun, Lee | Director - UI/UX Division.
 - April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
 - April 21, 2021. H2K Soft Reorganization : Business Strategy Team.
-- April 21, 2021. H2K Soft New Family : Seongjun, Kim | Manager - Business Strategy Team.
+- April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
 
 
 <br><br><br><br><br>
