@@ -22,7 +22,7 @@
 - Director of CoreSW Division : Byungwook, Hyeon.
 - Director of Cloud Engineering Division : Dongwan, Kang.
 - Director of Managed Service Division : Kyeongwon, Kang.
-- Director of UI/UX Division : Yonghyun, Kim.
+- Director of UI/UX Division : Yonghyun, Lee.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
@@ -43,7 +43,7 @@
 - April 16, 2021. H2K Soft Reorganization : Financial Management Team Creation.
 - April 19, 2021. H2K Soft New Family : Joonki, Kim | Manager - CoreSW Division.
 - April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
-- April 20, 2021. H2K Soft New Family : Yonghyun, Kim | Director - UI/UX Division.
+- April 20, 2021. H2K Soft New Family : Yonghyun, Lee | Director - UI/UX Division.
 - April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
 
 
