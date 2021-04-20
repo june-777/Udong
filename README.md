@@ -19,10 +19,10 @@
 
 (2) Team Info.
 - Project Owner : Byungwook, Hyeon.
-- Executive Director of CoreSW Division : Byungwook, Hyeon.
-- Executive Director of Cloud Engineering Division : Dongwan, Kang.
-- Executive Director of Managed Service Division : Kyeongwon, Kang.
-- Executive Director of UI/UX Division : Yonghyun, Kim.
+- Director of CoreSW Division : Byungwook, Hyeon.
+- Director of Cloud Engineering Division : Dongwan, Kang.
+- Director of Managed Service Division : Kyeongwon, Kang.
+- Director of UI/UX Division : Yonghyun, Kim.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
