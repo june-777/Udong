@@ -3,8 +3,8 @@
 <br>
 
 ## About us.
-#### Company name : H2K Soft Co., Ltd.
-#### Company classfication : Start-up.
+#### Company Name : H2K Soft Co., Ltd.
+#### Company Classfication : Start-up.
 #### Representative : Byungwook Hyeon.
 #### Date of Establishment : Feburary 10, 2021.
 #### Sectors : Application software development and supply.
