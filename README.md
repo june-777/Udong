@@ -18,10 +18,11 @@
 - Accelate the region community through the information sharing with the neighbor about the academy, hobbies, restaurant, and place something.
 
 (2) Team Info.
-- Project Owner : Byungwook Hyeon.
-- Director of CoreSW Division : Byungwook Hyeon.
-- Director of Cloud Engineering Division : Dongwan Kang.
-- Director of Managed Service Division : Kyeongwon Kang.
+- Project Owner : Byungwook, Hyeon.
+- Director of CoreSW Division : Byungwook, Hyeon.
+- Director of Cloud Engineering Division : Dongwan, Kang.
+- Director of Managed Service Division : Kyeongwon, Kang.
+- Director of UI/UX Division : Yonghyun, Kim.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
@@ -32,12 +33,16 @@
 
 ## 2. History
 - Feburary 10, 2021. H2K Soft Establishments.
-- Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
 - March 13, 2021. H2K Soft 1st All-hands meetings.
-- March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
 - April 16, 2021. H2K Soft 2nd All-hands meetings.
+
+## 3. Notice.
+- Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
+- March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
 - April 16, 2021. H2K Soft Reorganization : Financial Managedment Team Creation.
+- April 19, 2021. H2K Soft New Family : Joonki, Kim | Manager - CoreSW Division.
 - April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
+- April 20, 2021. H2K Soft New Family : Yonghyun, Kim | Director - UI/UX Division.
 
 
 <br><br><br><br><br>
