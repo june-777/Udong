@@ -6,7 +6,7 @@
 #### Company name : H2K Soft Co., Ltd.
 #### Company classfication : Start-up.
 #### Representative : Byungwook Hyeon.
-#### Date of Establishment : Feburary 10. 2021.
+#### Date of Establishment : Feburary 10, 2021.
 #### Sectors : Application software development and supply.
 #### Current Assets : $60 (April, 2021)
 #### Employee : 6 (April, 2021)
