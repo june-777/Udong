@@ -26,7 +26,7 @@
 - Manager of CoreSW Division : Joonki, Kim.
 - Manager of UI/UX Division : Sangwoo, Woo.
 - Manager of Business Strategy Team : Sungjun, Kim.
-- Manager of Finance Team : Mingi, Jeong.
+- Manager of Financial Management Team : Mingi, Jeong.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
