@@ -9,7 +9,7 @@
 #### Date of Establishment : Feburary 10, 2021.
 #### Sectors : Application software development and supply.
 #### Current Assets : $60 (April, 2021)
-#### Employee : 7 (April, 2021)
+#### Employee : 8 (April, 2021)
 #### Business Contact : mornadina13@gmail.com | Byungwook Hyeon, CEO.
 <br>
 
@@ -26,6 +26,7 @@
 - Manager of CoreSW Division : Joonki, Kim.
 - Manager of UI/UX Division : Sangwoo, Woo.
 - Manager of Business Strategy Team : Sungjun, Kim.
+- Manager of Finance Team : Mingi, Jeong.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
@@ -50,7 +51,8 @@
 - April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
 - April 21, 2021. H2K Soft Reorganization : Business Strategy Team Creation.
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
-
+- April 21, 2021. H2K Soft Reorganization : Finance Team Creation.
+- April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Finance Team.
 
 <br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
