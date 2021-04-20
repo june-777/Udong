@@ -26,7 +26,7 @@
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
-- Android Studio, Sublime Text3
+- Android Studio, Eclipse
 - Java, Python, Tensorflow, MySQL
 - Apache, Tomcat, HTML, PHP, CSS, JS
 - Etc.
