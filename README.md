@@ -51,8 +51,7 @@
 - April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
 - April 21, 2021. H2K Soft Reorganization : Business Strategy Team Creation.
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
-- April 21, 2021. H2K Soft Reorganization : Finance Team Creation.
-- April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Finance Team.
+- April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Management Team.
 
 <br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
