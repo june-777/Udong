@@ -48,7 +48,7 @@
 - April 20, 2021. H2K Soft Reorganization : UI/UX Division Creation.
 - April 20, 2021. H2K Soft New Family : Yonghyun, Lee | Director - UI/UX Division.
 - April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
-- April 21, 2021. H2K Soft Reorganization : Business Strategy Team.
+- April 21, 2021. H2K Soft Reorganization : Business Strategy Team Creation.
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
 
 
