@@ -31,7 +31,7 @@
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
 - Android Studio, Eclipse
-- Java, Python, Tensorflow, MySQL
+- Java, Python, Tensorflow, MySQL, SQLite.
 - Apache, Tomcat, HTML, PHP, CSS, JS
 - Etc.
 
