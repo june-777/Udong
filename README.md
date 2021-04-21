@@ -31,9 +31,9 @@
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
 - Android Studio, Eclipse
-- Java, Python, Tensorflow, MySQL, SQLite.
+- Java, Python, Tensorflow, MySQL, SQLite
 - Apache, Tomcat, HTML, PHP, CSS, JS
-- Etc.
+- Naver Map API, etc.
 
 ## 2. History.
 - Feburary 10, 2021. H2K Soft Establishments.
