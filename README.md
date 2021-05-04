@@ -19,8 +19,8 @@
 
 (2) Team Info.
 - CEO : Byungwook, Hyeon.
-- Executive Vice President & CFO : Dongwan, Kang.
-- Executive Vice President : Kyeongwon, Kang.
+- Executive Vice President : Dongwan, Kang.
+- Senior Vice President : Kyeongwon, Kang.
 - Vice President : Yonghyun, Lee.
 - Manager : Joonki, Kim.
 - Manager : Sangwoo, Woo.
