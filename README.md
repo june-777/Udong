@@ -18,15 +18,14 @@
 - Kick-start the region community through the information sharing with your neighbor about the society, club, hobbies, academy, restaurant, place.
 
 (2) Team Info.
-- Project Owner : Byungwook, Hyeon.
-- Director of CoreSW Division : Byungwook, Hyeon.
-- Director of Cloud Engineering Division : Dongwan, Kang.
-- Director of Managed Service Division : Kyeongwon, Kang.
-- Director of UI/UX Division : Yonghyun, Lee.
-- Manager of CoreSW Division : Joonki, Kim.
-- Manager of UI/UX Division : Sangwoo, Woo.
-- Manager of Business Strategy Team : Sungjun, Kim.
-- Manager of Financial Management Team : Mingi, Jeong.
+- CEO : Byungwook, Hyeon.
+- Executive Vice President & CFO : Dongwan, Kang.
+- Executive Vice President : Kyeongwon, Kang.
+- Vice President : Yonghyun, Lee.
+- Manager : Joonki, Kim.
+- Manager : Sangwoo, Woo.
+- Manager : Sungjun, Kim.
+- Manager : Mingi, Jeong.
 
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
