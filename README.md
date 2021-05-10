@@ -10,7 +10,7 @@
 #### Sectors : Application software development and supply.
 #### Current Assets : $90 (May, 2021)
 #### Employee : 8 (April, 2021)
-#### Business Contact : mornadina13@gmail.com | Byungwook Hyeon, CEO.
+#### Business Contact : mornadina13@gmail.com
 <br>
 
 ## 1. Project Overview.
