@@ -30,7 +30,7 @@
 (3) Environment&Tool.
 - MacOS, CentOS, AWS
 - Android Studio, Eclipse
-- Java, Python, Tensorflow, MySQL, SQLite
+- Java, Python, Django, Tensorflow, MySQL, SQLite
 - Apache, Tomcat, HTML, PHP, CSS, JS
 - Naver Map API, etc.
 
