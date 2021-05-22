@@ -36,7 +36,7 @@
 
 ## 2. History.
 - Feburary 10, 2021. H2K Soft Establishments.
-- Feburary 10, 2021. H2K Soft Reorganization : <br>CoreSW Division<br>Cloud Engineering Division<br>Managed Service Division.
+- Feburary 10, 2021. H2K Soft Division Creation : <br>CoreSW Division<br>Cloud Engineering Division<br>Managed Service Division.
 - March 13, 2021. H2K Soft 1st All-hands Meetings.
 - March 13, 2021. H2K Soft Reorganization : Management Support Team Creation.
 - April 16, 2021. H2K Soft 2nd All-hands Meetings.
