@@ -44,7 +44,7 @@
 - April 20, 2021. H2K Soft Department Creation : UI/UX Division.
 - April 21, 2021. H2K Soft Department Creation : Business Strategy Team.
 - May 2, 2021. H2K Soft 1st Board Meetings.
-- May 2, 2021. H2K Soft Entire Reorganize Organizational :<br>- Udong Development Division - Core Unit., Infra Unit<br>- CS Planning Division - MS Unit, BX Unit.<br>- Business Planning Division - Strategy Unit, Financial Unit.
+- May 2, 2021. H2K Soft Entire Reorganize Organizational :<br>- Udong Development Division - Core Unit, Infra Unit<br>- CS Planning Division - MS Unit, BX Unit.<br>- Business Planning Division - Strategy Unit, Financial Unit.
 - May 5, 2021. H2K Soft 1st Personnel Appointments.
 - May 15, 2021. H2K Soft 3rd All-hands Meetings(Board of Directors Workshop). 
 - June, 26, 2021. H2K Soft 4th All-hands Meetings.
