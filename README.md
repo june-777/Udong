@@ -42,7 +42,7 @@
 - May 15, 2021. H2K Soft 3rd All-hands Meetings. 
 - May 15, 2021. H2K Soft 1st Board of Directors Workshop. 
 - June, 26, 2021. H2K Soft 4th All-hands Meetings.
-- June, 26, 2021. H2K Soft Project Udong 1.0.0 will be opened.
+- June, 28, 2021. H2K Soft Project Udong 1.0.0 will be opened.
 - July 15, 2021. H2K Soft Project Udong Official Websites will be opened.
 - August 2, 2021. H2K Soft Udong 3.0.1 will be opened.
 
