@@ -54,11 +54,11 @@
 
 ## 3. Notice.
 
-- April 19, 2021. H2K Soft New Family : Joonki, Kim | Manager - CoreSW Division.
-- April 20, 2021. H2K Soft New Family : Yonghyun, Lee | Director - UI/UX Division.
-- April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - UI/UX Division.
-- April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
-- April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Management Team.
+- April 19, 2021. H2K Soft New Family : Joonki, Kim | Manager - Core Unit.
+- April 20, 2021. H2K Soft New Family : Yonghyun, Lee | Director - Core Unit.
+- April 20, 2021. H2K Soft New Family : Sangwoo, Woo | Manager - BX Unit.
+- April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Strategy Unit.
+- April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Unit.
 
 
 <br><br><br><br><br>
