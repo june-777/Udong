@@ -42,6 +42,9 @@
 - May 15, 2021. H2K Soft 3rd All-hands Meetings. 
 - May 15, 2021. H2K Soft 1st Board of Directors Workshop. 
 - June, 26, 2021. H2K Soft 4th All-hands Meetings.
+- June, 26, 2021. H2K Soft Project Udong 1.0.0 will be opened.
+- July 15, 2021. H2K Soft Project Udong Official Websites will be opened.
+- August 2, 2021. H2K Soft Udong 3.0.1 will be opened.
 
 ## 3. Notice.
 - Feburary 10, 2021. H2K Soft Reorganization : CoreSW Division, Cloud Engineering Division, Managed Service Division.
@@ -55,9 +58,7 @@
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Business Strategy Team.
 - April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Management Team.
 - May 2, 2021. H2K Soft Entire Reorganize Organizational.
-- June, 26, 2021. H2K Soft Project Udong 1.0.0 will be opened.
-- July 15, 2021. H2K Soft Project Udong Official Websites will be opened.
-- August 2, 2021. H2K Soft Udong 3.0.1 will be opened.
+
 
 <br><br><br><br><br>
 <p align="center"><img src="https://github.com/mornadina13/Udong/blob/main/CI/CI.png" witdh="700" height="400" /></p>
