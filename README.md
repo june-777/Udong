@@ -16,7 +16,7 @@
 ## 1. Project Overview.
 (1) Goal.
 - Kick-start the region community through the information sharing with your neighbor about the society, club, hobbies, academy, restaurant, place.
-
+<br>
 (2) Team Info.
 - CEO : Byungwook, Hyeon.
 - Executive Vice President : Kyeongwon, Kang.
@@ -26,7 +26,7 @@
 - Manager : Sangwoo, Woo.
 - Manager : Sungjun, Kim.
 - Manager : Mingi, Jeong.
-
+<br>
 (3) Environment&Tool.
 - MacOS, Ubuntu, AWS, Azure
 - Android Studio, Adobe XD
