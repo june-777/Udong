@@ -28,11 +28,11 @@
 - Manager : Mingi, Jeong.
 
 (3) Environment&Tool.
-- MacOS, CentOS, AWS
-- Android Studio, Eclipse
+- MacOS, Ubuntu, AWS, Azure
+- Android Studio, Adobe XD
 - Java, Python, Django, Tensorflow, MySQL, SQLite
 - Apache, Tomcat, HTML, PHP, CSS, JS
-- Naver Map API, etc.
+- Google Location, Firebase, JWP, etc.
 
 ## 2. History.
 - Feburary 10, 2021. H2K Soft Establishments.
