@@ -36,7 +36,7 @@
 
 ## 2. History.
 - Feburary 10, 2021. H2K Soft Establishments.
-- Feburary 10, 2021. H2K Soft Department Creation : <br>- CoreSW Division.<br>Cloud Engineering Division.<br>Managed Service Division.
+- Feburary 10, 2021. H2K Soft Department Creation : <br>- CoreSW Division.<br>- Cloud Engineering Division.<br>- Managed Service Division.
 - March 13, 2021. H2K Soft 1st All-hands Meetings.
 - March 13, 2021. H2K Soft Department Creation : Management Support Team.
 - April 16, 2021. H2K Soft 2nd All-hands Meetings.
@@ -44,7 +44,7 @@
 - April 20, 2021. H2K Soft Department Creation : UI/UX Division.
 - April 21, 2021. H2K Soft Department Creation : Business Strategy Team.
 - May 2, 2021. H2K Soft 1st Board Meetings.
-- May 2, 2021. H2K Soft Entire Reorganize Organizational :<br>Udong Development Division - Core Unit., Infra Unit<br>CS Planning Division - MS Unit, BX Unit.<br>Business Planning Division - Strategy Unit, Financial Unit.
+- May 2, 2021. H2K Soft Entire Reorganize Organizational :<br>- Udong Development Division - Core Unit., Infra Unit<br>- CS Planning Division - MS Unit, BX Unit.<br>- Business Planning Division - Strategy Unit, Financial Unit.
 - May 5, 2021. H2K Soft 1st Personnel Appointments.
 - May 15, 2021. H2K Soft 3rd All-hands Meetings(Board of Directors Workshop). 
 - June, 26, 2021. H2K Soft 4th All-hands Meetings.
