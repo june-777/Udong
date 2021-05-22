@@ -19,9 +19,9 @@
 
 (2) Team Info.
 - CEO : Byungwook, Hyeon.
-- Executive Vice President : Dongwan, Kang.
-- Senior Vice President : Kyeongwon, Kang.
-- Vice President : Yonghyun, Lee.
+- Executive Vice President : Kyeongwon, Kang.
+- Senior Vice President : Yonghyun, Lee.
+- Standing Audit Committee Member : Dongwan, Kang.
 - Manager : Joonki, Kim.
 - Manager : Sangwoo, Woo.
 - Manager : Sungjun, Kim.
