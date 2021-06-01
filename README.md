@@ -25,7 +25,6 @@ https://www.linkedin.com/company/74120635/
 - Standing Audit Committee Member : Dongwan, Kang.
 - Manager : Joonki, Kim.
 - Manager : Sangwoo, Woo.
-- Manager : Sungjun, Kim.
 - Manager : Mingi, Jeong.
 
 (3) Environment&Tool.
