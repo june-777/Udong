@@ -21,7 +21,7 @@ https://www.linkedin.com/company/74120635/
 (2) H2K Soft Family.
 - CEO : Byungwook, Hyeon.
 - Executive Vice President : Kyeongwon, Kang.
-- Senior Vice President : Yonghyun, Lee.
+- Senior Managing Director : Yonghyun, Lee.
 - Standing Audit Committee Member : Dongwan, Kang.
 - Manager : Joonki, Kim.
 - Manager : Sangwoo, Woo.
