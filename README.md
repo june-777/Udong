@@ -46,9 +46,9 @@ https://www.linkedin.com/company/74120635/
 - May 2, 2021. H2K Soft 1st Board Meetings.
 - May 2, 2021. H2K Soft Entire Reorganize Organizational :<br>- Udong Development Division - Core Unit, Infra Unit.<br>- CS Planning Division - MS Unit, BX Unit.<br>- Business Planning Division - Strategy Unit, Financial Unit.
 - May 5, 2021. H2K Soft 1st Personnel Appointments.
-- May 15, 2021. H2K Soft 3rd All-hands Meetings(Board of Directors Workshop). 
-- June, 26, 2021. H2K Soft 4th All-hands Meetings.
-- June, 28, 2021. H2K Soft Project Udong 1.0.0 will be opened.
+- May 15, 2021. H2K Soft 3rd All-hands Meetings(Board of Directors - Workshop). 
+- July, 2, 2021. H2K Soft 4th All-hands Meetings(Udong Development Division - CS Planning Division - Workshop).
+- July, 05, 2021. H2K Soft Project Udong 1.0.0 will be opened.
 - July 15, 2021. H2K Soft Project Udong Official Websites will be opened - www.udonng.com.
 - August 2, 2021. H2K Soft Udong 3.0.1 will be opened.
 
