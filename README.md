@@ -31,7 +31,7 @@ https://www.linkedin.com/company/74120635/
 - MacOS, Ubuntu, AWS, Azure
 - Android Studio, Adobe XD
 - Java, Python, Django, Tensorflow, MySQL, SQLite
-- Apache, Tomcat, HTML, PHP, CSS, JS
+- Apache, HTML, PHP, CSS, JS
 - Google Location, Firebase, JWP, etc.
 
 ## 2. History.
