@@ -10,7 +10,7 @@ https://www.linkedin.com/company/74120635/
 #### Date of Establishment : Feburary 10, 2021.
 #### Sectors : Application software development and supply.
 #### Current Assets : $90 (May, 2021)
-#### Employee : 8 (April, 2021)
+#### Employee : 7 (April, 2021)
 #### Business Contact : mornadina13@gmail.com
 <br>
 
