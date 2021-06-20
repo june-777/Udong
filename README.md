@@ -60,6 +60,7 @@ https://www.linkedin.com/company/74120635/
 - April 21, 2021. H2K Soft New Family : Sungjun, Kim | Manager - Strategy Unit.
 - April 21, 2021. H2K Soft New Family : Mingi, Jeong | Manager - Financial Unit.
 - June 2, 2021. Fired | Sungjun, Kim | Manager - Strategy Unit.
+- June 20, 2021. Fired | Sangwoo, Woo | Manager - BX Unit.
 
 
 <br><br><br><br><br>
